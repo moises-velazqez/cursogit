@@ -6,7 +6,8 @@ h1 {
 
 h6 {
     text-align: center;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     color: red;
+    border: springgreen;
 }
 
