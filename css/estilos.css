@@ -3,11 +3,13 @@ h1 {
     font-family: arial;
     color: blue;
     background-color: rosybrown;
+
 }
 
 h6 {
     text-align: center;
     font-family: cursive;
     color: red;
+    background-color: slategray;
 }
 
